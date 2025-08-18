@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArithmeticOperators/ArithmeticOperators.iml" filepath="$PROJECT_DIR$/ArithmeticOperators/ArithmeticOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AugmentedAssigmentOperators/AugmentedAssigmentOperators.iml" filepath="$PROJECT_DIR$/AugmentedAssigmentOperators/AugmentedAssigmentOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BSIT-Portfolio.iml" filepath="$PROJECT_DIR$/.idea/BSIT-Portfolio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculateAreaofRectangle/CalculateAreaofRectangle.iml" filepath="$PROJECT_DIR$/CalculateAreaofRectangle/CalculateAreaofRectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculatorProgram/CalculatorProgram.iml" filepath="$PROJECT_DIR$/CalculatorProgram/CalculatorProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompoundInterestCalculatorProject/CompoundInterestCalculatorProject.iml" filepath="$PROJECT_DIR$/CompoundInterestCalculatorProject/CompoundInterestCalculatorProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfStatements/IfStatements.iml" filepath="$PROJECT_DIR$/IfStatements/IfStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IncrementAndDecrementOperators/IncrementAndDecrementOperators.iml" filepath="$PROJECT_DIR$/IncrementAndDecrementOperators/IncrementAndDecrementOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LogicalOperators/LogicalOperators.iml" filepath="$PROJECT_DIR$/LogicalOperators/LogicalOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MadLibsGame/MadLibsGame.iml" filepath="$PROJECT_DIR$/MadLibsGame/MadLibsGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathClass/MathClass.iml" filepath="$PROJECT_DIR$/MathClass/MathClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathClassExercise/MathClassExercise.iml" filepath="$PROJECT_DIR$/MathClassExercise/MathClassExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathClassExercise2/MathClassExercise2.iml" filepath="$PROJECT_DIR$/MathClassExercise2/MathClassExercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFirstProject/MyFirstProject.iml" filepath="$PROJECT_DIR$/MyFirstProject/MyFirstProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFirstUserInput/MyFirstUserInput.iml" filepath="$PROJECT_DIR$/MyFirstUserInput/MyFirstUserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NestedIfStatements/NestedIfStatements.iml" filepath="$PROJECT_DIR$/NestedIfStatements/NestedIfStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderOfOperations/OrderOfOperations.iml" filepath="$PROJECT_DIR$/OrderOfOperations/OrderOfOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrintfStatement/PrintfStatement.iml" filepath="$PROJECT_DIR$/PrintfStatement/PrintfStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrintfStatementPrecision/PrintfStatementPrecision.iml" filepath="$PROJECT_DIR$/PrintfStatementPrecision/PrintfStatementPrecision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrintfStatementWidth/PrintfStatementWidth.iml" filepath="$PROJECT_DIR$/PrintfStatementWidth/PrintfStatementWidth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomNumbers/RandomNumbers.iml" filepath="$PROJECT_DIR$/RandomNumbers/RandomNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShoppingCartProgram/ShoppingCartProgram.iml" filepath="$PROJECT_DIR$/ShoppingCartProgram/ShoppingCartProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringMethods/StringMethods.iml" filepath="$PROJECT_DIR$/StringMethods/StringMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Substrings/Substrings.iml" filepath="$PROJECT_DIR$/Substrings/Substrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemperatureConverter/TemperatureConverter.iml" filepath="$PROJECT_DIR$/TemperatureConverter/TemperatureConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TernaryOperator/TernaryOperator.iml" filepath="$PROJECT_DIR$/TernaryOperator/TernaryOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeightConversionProgram/WeightConversionProgram.iml" filepath="$PROJECT_DIR$/WeightConversionProgram/WeightConversionProgram.iml" />
+    </modules>
+  </component>
+</project>
