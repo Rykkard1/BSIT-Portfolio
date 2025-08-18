@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/CompoundInterestCalculatorProject/CompoundInterestCalculatorProject.iml" filepath="$PROJECT_DIR$/CompoundInterestCalculatorProject/CompoundInterestCalculatorProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/IfStatements/IfStatements.iml" filepath="$PROJECT_DIR$/IfStatements/IfStatements.iml" />
       <module fileurl="file://$PROJECT_DIR$/IncrementAndDecrementOperators/IncrementAndDecrementOperators.iml" filepath="$PROJECT_DIR$/IncrementAndDecrementOperators/IncrementAndDecrementOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Mastery/Logical Operator/Logical Operator.iml" filepath="$PROJECT_DIR$/Java Mastery/Logical Operator/Logical Operator.iml" />
       <module fileurl="file://$PROJECT_DIR$/LogicalOperators/LogicalOperators.iml" filepath="$PROJECT_DIR$/LogicalOperators/LogicalOperators.iml" />
       <module fileurl="file://$PROJECT_DIR$/MadLibsGame/MadLibsGame.iml" filepath="$PROJECT_DIR$/MadLibsGame/MadLibsGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/MathClass/MathClass.iml" filepath="$PROJECT_DIR$/MathClass/MathClass.iml" />
@@ -30,6 +31,8 @@
       <module fileurl="file://$PROJECT_DIR$/TemperatureConverter/TemperatureConverter.iml" filepath="$PROJECT_DIR$/TemperatureConverter/TemperatureConverter.iml" />
       <module fileurl="file://$PROJECT_DIR$/TernaryOperator/TernaryOperator.iml" filepath="$PROJECT_DIR$/TernaryOperator/TernaryOperator.iml" />
       <module fileurl="file://$PROJECT_DIR$/WeightConversionProgram/WeightConversionProgram.iml" filepath="$PROJECT_DIR$/WeightConversionProgram/WeightConversionProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Mastery/WhileLoops/WhileLoops.iml" filepath="$PROJECT_DIR$/Java Mastery/WhileLoops/WhileLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Mastery/test2/test2.iml" filepath="$PROJECT_DIR$/Java Mastery/test2/test2.iml" />
     </modules>
   </component>
 </project>
