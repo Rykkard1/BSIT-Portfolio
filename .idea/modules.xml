@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArithmeticOperators/ArithmeticOperators.iml" filepath="$PROJECT_DIR$/ArithmeticOperators/ArithmeticOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Mastery/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Java Mastery/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Mastery/Arrays With User Input/Arrays With User Input.iml" filepath="$PROJECT_DIR$/Java Mastery/Arrays With User Input/Arrays With User Input.iml" />
       <module fileurl="file://$PROJECT_DIR$/AugmentedAssigmentOperators/AugmentedAssigmentOperators.iml" filepath="$PROJECT_DIR$/AugmentedAssigmentOperators/AugmentedAssigmentOperators.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/BSIT-Portfolio.iml" filepath="$PROJECT_DIR$/.idea/BSIT-Portfolio.iml" />
       <module fileurl="file://$PROJECT_DIR$/My Mini Java Programs/Banking Program/Banking Program.iml" filepath="$PROJECT_DIR$/My Mini Java Programs/Banking Program/Banking Program.iml" />
